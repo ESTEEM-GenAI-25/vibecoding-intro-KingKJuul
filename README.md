@@ -1,20 +1,47 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Butter AI — Phase 2 Interactive Marketing Prototype
 
-# Run and deploy your AI Studio app
+This repository contains the Phase 2 prototype for **Butter AI**, an AI-powered customer health engine designed to help early-stage SaaS startups detect churn risks before they occur. The prototype focuses on marketing, storytelling, and AI interaction using Google AI Studio.
 
-This contains everything you need to run your app locally.
+The site is built with **Vite + React + TypeScript**, and hosted on **GitHub Pages**.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+---
 
-## Run Locally
+## 🔍 Overview of Prototype
 
-**Prerequisites:**  Node.js
+This prototype demonstrates:
+- Clear messaging about the problem Butter solves  
+- A breakdown of Butter’s proposed product value  
+- A branded, multi-section marketing site  
+- An **AI-powered Q&A chatbot** that answers questions about churn, customer health, and Butter’s vision  
 
+This is not the full Butter product — it is a **conceptual preview** built to communicate the idea to users, investors, or stakeholders.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🤖 AI Component Explanation
+
+### **What the AI Does**
+The prototype includes an interactive chatbot that:
+- Understands user questions about churn and customer health  
+- Provides concise, founder-friendly explanations  
+- Simulates how Butter will eventually interpret complex customer signals  
+
+### **Where AI Is Used**
+The AI powers the **Q&A section** of the website.  
+All other site sections (Home, About, Product, Contact) are static.
+
+### **Why This AI Model Was Chosen**
+- Strong natural-language understanding  
+- Reliable, structured output  
+- Fast and lightweight enough for browser-based Q&A  
+- Easy integration through **Google AI Studio**  
+
+### **How the AI Improves the Prototype**
+The chatbot preview models Butter AI’s long-term value:  
+helping founders understand *why* customers might churn and what they should do next.
+
+---
+
+## 🧪 Prompt Samples (Used in Development)
+
+### **Chatbot Prompt**
