@@ -1,4 +1,4 @@
-# Butter AI — Phase 2 Product Requirements Document (PRD)
+# Butter AI: Phase 2 Product Requirements Document (PRD)
 
 ## 1. Overview & Goal
 Butter AI is an AI-powered customer health engine designed to help early-stage SaaS startups detect churn risks before they occur. Founders often lose customers simply because they do not see declining engagement early enough. Butter solves this by unifying CRM notes, customer messages, and product usage signals into one clear view and translating them into actionable insight using AI.
