@@ -1,4 +1,4 @@
-# Butter AI — Phase 2 Interactive Marketing Prototype
+# Butter AI: Phase 2 Interactive Marketing Prototype
 
 This repository contains the Phase 2 prototype for **Butter AI**, an AI-powered customer health engine designed to help early-stage SaaS startups detect churn risks before they occur. The prototype focuses on marketing, storytelling, and AI interaction using Google AI Studio.
 
