@@ -9,13 +9,13 @@ The Phase 2 prototype focuses on the marketing and storytelling components of Bu
 ## 2. Core Features (Implemented)
 | Feature | Status | AI Used? | Notes |
 |--------|--------|----------|-------|
-| Hero section & landing page | Complete | No | Frames the core customer problem and value of Butter AI. |
-| About section | Complete | No | Explains mission, churn pain, and differentiation. |
-| Product section | Complete | No | Describes future functions like unified data and insight scoring. |
+| Hero section & landing page | Complete | Yes | Frames the core customer problem and value of Butter AI. |
+| About section | Complete | Yes | Explains mission, churn pain, and differentiation. |
+| Product section | Complete | Yes | Describes future functions like unified data and insight scoring. |
 | Interactive AI Q&A chatbot | Complete | Yes | Built through AI Studio to answer churn and product questions. |
-| Contact section | Complete | No | Static call to action for waitlist signup. |
-| Branding + Navigation | Complete | No | Smooth scroll, consistent colors, structured layout. |
-| GitHub Pages hosting | Complete | No | Production build placed in /docs for hosting. |
+| Contact section | Complete | Yes | Static call to action for waitlist signup. |
+| Branding + Navigation | Complete | Yes | Smooth scroll, consistent colors, structured layout. |
+| GitHub Pages hosting | Complete | Yes | Production build placed in /docs for hosting. |
 
 ## 3. AI Specification
 ### AI Role in the Prototype
