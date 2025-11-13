@@ -14,7 +14,7 @@ This prototype demonstrates:
 - A branded, multi-section marketing site  
 - An **AI-powered Q&A chatbot** that answers questions about churn, customer health, and Butter’s vision  
 
-This is not the full Butter product — it is a **conceptual preview** built to communicate the idea to users, investors, or stakeholders.
+This is not the full Butter product, but it is a **conceptual preview** built to communicate the idea to users, investors, or stakeholders.
 
 ---
 
