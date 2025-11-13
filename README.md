@@ -6,7 +6,7 @@ The site is built with **Vite + React + TypeScript**, and hosted on **GitHub Pag
 
 ---
 
-## 🔍 Overview of Prototype
+## Overview of Prototype
 
 This prototype demonstrates:
 - Clear messaging about the problem Butter solves  
@@ -18,7 +18,7 @@ This is not the full Butter product, but it is a **conceptual preview** built to
 
 ---
 
-## 🤖 AI Component Explanation
+## AI Component Explanation
 
 ### **What the AI Does**
 The prototype includes an interactive chatbot that:
@@ -42,6 +42,6 @@ helping founders understand *why* customers might churn and what they should do 
 
 ---
 
-## 🧪 Prompt Samples (Used in Development)
+## Prompt Samples (Used in Development)
 
 ### **Chatbot Prompt**
